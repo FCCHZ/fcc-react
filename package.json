@@ -1,0 +1,23 @@
+{
+  "name": "fcc-react",
+  "version": "1.0.0",
+  "description": "the react version of FCCHZ site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FCCHZ/fcc-react.git"
+  },
+  "keywords": [
+    "FCC",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FCCHZ/fcc-react/issues"
+  },
+  "homepage": "https://github.com/FCCHZ/fcc-react#readme"
+}
